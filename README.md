@@ -1,5 +1,6 @@
 # install bahan
 pkg update && pkg upgrade 
+pkg install python
 pkg install lolcat
 pkg install mpv
 pip3 install tabulate
