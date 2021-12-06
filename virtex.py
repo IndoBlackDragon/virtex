@@ -17,6 +17,7 @@ try:
 except:
     print ("\ninstall bahan dulu..")
     print ("tunggu sampai selesai\n")
+    system("pkg install python")
     system("pip3 install tabulate")
     system("pkg install toilet")
     system("pkg install toilet")
